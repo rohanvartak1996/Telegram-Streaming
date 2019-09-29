@@ -1,0 +1,4 @@
+API_ID : # Your Telegram API ID
+API_HASH : # Your Telegram API hash
+MONGO_CONNECTION: 'mongodb://localhost/'
+MONGO_DB: # name of the collection
