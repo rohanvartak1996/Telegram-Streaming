@@ -25,7 +25,7 @@ When you run the file in Jupyter, Telegram will ask you to login using your acco
 
 Same login will be required when running the python file.
 
-The 'me channel has been added to the list of telegram channels.
+The 'me' channel has been added to the list of telegram channels.
 
 All the messages will be saved to your MongoDb. 
 
